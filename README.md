@@ -7,8 +7,8 @@ When you are on a Wikipedia article, it creates a link to the Grokipedia page fo
 
 ## Grokipedia URL structure
 
-Example Wikipedia article: https://en.wikipedia.org/wiki/Sun-synchronous_orbit
-Corresponding Grokipedia article: https://grokipedia.com/page/Sun-synchronous_orbit
+- Wikipedia article: https://en.wikipedia.org/wiki/Sun-synchronous_orbit
+- Grokipedia article: https://grokipedia.com/page/Sun-synchronous_orbit
 
 ## Installation (Developer Mode)
 
