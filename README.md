@@ -31,6 +31,11 @@ To test the extension locally in Chrome-based browsers (Chrome, Edge, Brave, etc
 5. The extension is now installed! Navigate to any Wikipedia article and click the extension icon to see the Grokipedia link.
 6. Enjoy!!
 
+### How it looks
+
+Here is how it looks like when you are on a Wikipedia article, and click the extension icon:
+![Wikipedia article](./images/extension.png)
+
 ## Steps to publish to Chrome
 1. Create a zip file. Run `./create_zip.sh` to create a zip file.
 2. Create a Chrome Web Store developer account
