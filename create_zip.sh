@@ -1,5 +1,6 @@
 files=(
     "manifest.json"
+    "background.js"
     "popup.html"
     "popup.js"
     "popup.css"
