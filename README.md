@@ -2,6 +2,10 @@
 
 This repo is a chrome extension that creates redirect links to Grokipedia pages for Wikipedia articles.
 
+## Install from Chrome Web Store
+
+[Install Grokipedia Redirect](https://chromewebstore.google.com/detail/kobcggjdhkhfhhlddjkfmepjjpdnmfej?utm_source=item-share-cb)
+
 ## What does the extension do?
 When you are on a Wikipedia article, it creates a link to the Grokipedia page for that article, and shows up when you click the extension icon on your browser.
 
