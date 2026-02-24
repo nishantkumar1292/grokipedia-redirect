@@ -37,8 +37,11 @@ To test the extension locally in Chrome-based browsers (Chrome, Edge, Brave, etc
 
 ### How it looks
 
-Here is how it looks like when you are on a Wikipedia article, and click the extension icon:
-![Wikipedia article](./images/extension.png)
+Shows the popup on a Wikipedia article with the Grokipedia link ready to open:
+![Grokipedia redirect screenshot 1](./product_screenshots/chrome-webstore-screenshot-1280x800.png)
+
+Shows the popup on a non-Wikipedia page, where it prompts you to navigate to a Wikipedia article:
+![Grokipedia redirect screenshot 2](./product_screenshots/chrome-webstore-screenshot-2-1280x800.png)
 
 ## Steps to publish to Chrome
 1. Create a zip file. Run `./create_zip.sh` to create a zip file.
