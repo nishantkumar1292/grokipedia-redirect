@@ -15,6 +15,26 @@ h2 {
     color: #333;
 }
 
+.toggle-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    margin-bottom: 6px;
+    color: #333;
+    user-select: none;
+}
+
+#auto-redirect-toggle {
+    margin: 0;
+}
+
+#toggle-description {
+    margin: 0 0 12px 0;
+    color: #666;
+    font-size: 12px;
+}
+
 #status {
     color: #666;
     font-size: 14px;
@@ -40,4 +60,3 @@ h2 {
 .hidden {
     display: none !important;
 }
-

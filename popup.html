@@ -7,10 +7,14 @@
 <body>
     <div class="container">
         <h2>Grokipedia Link</h2>
+        <label class="toggle-row" for="auto-redirect-toggle">
+            <input type="checkbox" id="auto-redirect-toggle">
+            <span>Auto-Redirect</span>
+        </label>
+        <p id="toggle-description">Automatically open Grokipedia when a matching page exists.</p>
         <div id="status">Checking current page...</div>
         <a id="grokipedia-link" href="#" target="_blank" class="hidden">Open in Grokipedia</a>
     </div>
     <script src="popup.js"></script>
 </body>
 </html>
-

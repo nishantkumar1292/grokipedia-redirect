@@ -5,6 +5,10 @@ This repo is a chrome extension that creates redirect links to Grokipedia pages 
 ## What does the extension do?
 When you are on a Wikipedia article, it creates a link to the Grokipedia page for that article, and shows up when you click the extension icon on your browser.
 
+It also includes an **Auto-Redirect** option in the popup:
+- If Auto-Redirect is enabled and the Grokipedia page exists, the extension automatically redirects Wikipedia article tabs to Grokipedia.
+- If the page is not available on Grokipedia, the popup shows `Not Available`.
+
 ## Grokipedia URL structure
 
 - Wikipedia article: https://en.wikipedia.org/wiki/Sun-synchronous_orbit
